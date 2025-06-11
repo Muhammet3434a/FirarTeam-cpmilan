@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>FirarTeam | Car Parking Multiplayer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Car Parking Multiplayer - Araç Alım Satım</h1>
+    <nav>
+      <a href="index.html">Anasayfa</a>
+      <a href="cars.html">Araçlar</a>
+      <a href="add-car.html">Araç Ekle</a>
+      <a href="contact.html">İletişim</a>
+      <a href="https://www.youtube.com/@FirarTeam" target="_blank" class="youtube-button">🔴 Kanalıma Abone Ol</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Hoş Geldiniz!</h2>
+      <p>Bu site Car Parking Multiplayer oyuncuları için araba alım satım platformudur. Araç ilanlarını görüntüleyin veya kendi ilanınızı oluşturun!</p>
+    </section>
+  </main>
+</body>
+</html>
